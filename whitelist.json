@@ -1,4 +1,6 @@
 {
-  "whitelist" ["68498CDEE5E22E12"],
-  "blocked" []
+  "whitelist": [
+    "68498CDEE5E22E12"
+  ],
+  "blocked": []
 }
